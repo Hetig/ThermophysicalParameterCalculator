@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThermophysicalParameterCalculator", "ThermophysicalParameterCalculator\ThermophysicalParameterCalculator.csproj", "{6D05B40C-1A7B-41BB-A0DC-F0066EE386EE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6D05B40C-1A7B-41BB-A0DC-F0066EE386EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D05B40C-1A7B-41BB-A0DC-F0066EE386EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D05B40C-1A7B-41BB-A0DC-F0066EE386EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D05B40C-1A7B-41BB-A0DC-F0066EE386EE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F3551697-2375-49A9-9401-984C25E594B9}
+	EndGlobalSection
+EndGlobal
